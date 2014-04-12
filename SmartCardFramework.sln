@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30110.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCardsWinStore", "SmartCardsWinStore\SmartCardsWinStore.csproj", "{029E7026-725F-40CB-8482-59E65BE0EB2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartCardLibrary", "SmartCardLibrary\SmartCardLibrary.csproj", "{4A839807-D0DA-4B19-8478-C42576587223}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs30
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = SmartCardLibrary\\SmartCardLibrary.csproj
+		SccProjectName1 = SmartCardLibrary
+		SccLocalPath1 = SmartCardLibrary
+		SccProjectUniqueName2 = SmartCardsWinStore\\SmartCardsWinStore.csproj
+		SccProjectName2 = SmartCardsWinStore
+		SccLocalPath2 = SmartCardsWinStore
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Debug|ARM.ActiveCfg = Debug|ARM
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Debug|ARM.Build.0 = Debug|ARM
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Debug|ARM.Deploy.0 = Debug|ARM
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Debug|x64.ActiveCfg = Debug|x64
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Debug|x64.Build.0 = Debug|x64
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Debug|x64.Deploy.0 = Debug|x64
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Debug|x86.ActiveCfg = Debug|x86
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Debug|x86.Build.0 = Debug|x86
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Debug|x86.Deploy.0 = Debug|x86
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Release|ARM.ActiveCfg = Release|ARM
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Release|ARM.Build.0 = Release|ARM
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Release|ARM.Deploy.0 = Release|ARM
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Release|x64.ActiveCfg = Release|x64
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Release|x64.Build.0 = Release|x64
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Release|x64.Deploy.0 = Release|x64
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Release|x86.ActiveCfg = Release|x86
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Release|x86.Build.0 = Release|x86
+		{029E7026-725F-40CB-8482-59E65BE0EB2D}.Release|x86.Deploy.0 = Release|x86
+		{4A839807-D0DA-4B19-8478-C42576587223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A839807-D0DA-4B19-8478-C42576587223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A839807-D0DA-4B19-8478-C42576587223}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{4A839807-D0DA-4B19-8478-C42576587223}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{4A839807-D0DA-4B19-8478-C42576587223}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4A839807-D0DA-4B19-8478-C42576587223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A839807-D0DA-4B19-8478-C42576587223}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A839807-D0DA-4B19-8478-C42576587223}.Release|ARM.ActiveCfg = Release|Any CPU
+		{4A839807-D0DA-4B19-8478-C42576587223}.Release|x64.ActiveCfg = Release|Any CPU
+		{4A839807-D0DA-4B19-8478-C42576587223}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
